@@ -5,7 +5,7 @@ Unity Borderless Toggle
 A simple script to remove the title bar and make Unity games borderless on Windows platform.
 </h4>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/afab3534-c459-4bfa-a89b-88b473e87649" alt="demo" />
+  <img src="https://github.com/user-attachments/assets/ada6ac64-c8b5-45a0-b45c-b00520eb6a3b" alt="demo" />
 </p>
 
 ## Setup
